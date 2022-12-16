@@ -17,5 +17,5 @@
   <img src=Images/NetworkPortScanner_Main.png width="350" title="Main Screen">
  
 # 2.Error Screen
-<p align="leftr">
+<p align="left">
   <img src=Images/NetworkPortScanner_Main.png width="350" title="Main Screen">
