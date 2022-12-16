@@ -19,4 +19,3 @@
 # 2.Error Screen
 <p align="leftr">
   <img src=Images/NetworkPortScanner_Main.png width="350" title="Main Screen">
- 
